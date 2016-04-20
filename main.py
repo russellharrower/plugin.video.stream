@@ -20,7 +20,7 @@ _handle = int(sys.argv[1])
 # from some web-site or online service.
 VIDEOS = {'Animals': [{'name': 'Crab',
                        'thumb': 'http://www.vidsplay.com/vids/crab.jpg',
-                       'video': 'http://www.vidsplay.com/vids/crab.mp4',
+                       'video': 'https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master_high.m3u8',
                        'genre': 'Animals'},
                       {'name': 'Alligator',
                        'thumb': 'http://www.vidsplay.com/vids/alligator.jpg',
